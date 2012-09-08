@@ -9,3 +9,6 @@ simulation/
 *.summary
 *.rpt
 *.smsg
+
+# Backup Files
+*.bak
