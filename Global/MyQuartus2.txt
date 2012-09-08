@@ -1,0 +1,11 @@
+# Compilation Junk
+incremental_db/
+db/
+greybox_tmp/
+simulation/
+*.done
+
+# Compilation Reports
+*.summary
+*.rpt
+*.smsg
