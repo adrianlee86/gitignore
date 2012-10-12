@@ -1,14 +1,22 @@
+# Workspace
+*.qws
+*~
+
 # Compilation Junk
 incremental_db/
 db/
 greybox_tmp/
 simulation/
 *.done
+*_generation_script*
 
-# Compilation Reports
+# Reports
 *.summary
 *.rpt
 *.smsg
+*.txt
+*.qmsg
+*.qarlog
 
 # Backup Files
 *.bak
